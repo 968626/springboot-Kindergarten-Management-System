@@ -1,4 +1,4 @@
-
+# 源码链接 https://mbd.pub/o/bread/YZWXlZtsbQ==
 # 蓝天幼儿园管理系统 (BSKMS)
 
 ## 项目概述
